@@ -1,2 +1,0 @@
-# News
-Django / graphql project
